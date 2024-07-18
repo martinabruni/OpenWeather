@@ -1,1 +1,1 @@
-# OpenWeather
+# Weather APP
